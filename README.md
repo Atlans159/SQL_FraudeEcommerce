@@ -22,7 +22,7 @@ Esta análise exploratória de dados fornece insights valiosos sobre a fraude em
 
 2. Valor médio similar entre compras legítimas e fraudulentas: O valor da compra por si só não se mostra um indicador confiável para identificar fraudes, pois a média é similar em ambos os tipos de compra. Os fraudadores mascaram suas ações imitando o comportamento dos compradores legítimos.
 
-3.Ataque "pump and dump": A alta frequência de compras com apenas um segundo de diferença entre criação de conta e compra levanta a suspeita desse tipo de ataque. Os fraudadores criam contas rapidamente, realizam compras fraudulentas e as abandonam, apesar de manterem o mesmo dispositivo, o que pode ser uma ótima métrica para mitigar os prejuízos.
+3. Ataque "pump and dump": A alta frequência de compras com apenas um segundo de diferença entre criação de conta e compra levanta a suspeita desse tipo de ataque. Os fraudadores criam contas rapidamente, realizam compras fraudulentas e as abandonam, apesar de manterem o mesmo dispositivo, o que pode ser uma ótima métrica para mitigar os prejuízos.
 
 4. A média móvel constante pode indicar que um fraudador está usando um script ou bot para realizar compras automatizadas.
 
